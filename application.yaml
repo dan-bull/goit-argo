@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<твій-юзер>/goit-argo.git
+    repoURL: https://github.com/dan-bull/goit-argo.git
     targetRevision: main
     path: namespaces/application
   destination:
